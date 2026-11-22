@@ -1,0 +1,4 @@
+review,day,use,target,gain_floor,missing_gap_ceiling,burden_ceiling,min_pairs
+V1,2026-11-13,exploratory,all,0.04,0.12,0.08,7
+V2,2026-11-26,formal,all,0.04,0.12,0.08,10
+V3,2026-12-07,formal,school,0.04,0.12,0.08,8

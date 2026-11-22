@@ -1,0 +1,6 @@
+contact,source_class,target_class,day,kind,content
+CT1,K031,K030,2026-11-05,teacher,提示示范
+CT2,K071,K080,2026-11-10,family,完整迁移题
+CT3,K081,K090,2026-11-11,teacher,提示示范
+CT4,K120,K131,2026-11-15,family,仅场馆介绍
+CT5,K111,K151,2026-11-18,pupil,跨团重复到访

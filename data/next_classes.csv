@@ -1,0 +1,8 @@
+candidate,day,school,grade,teacher,block,prior_material,state,paired_with,followup_slot
+NC1,2026-12-05,Q1,3,L2,morning,no,hold_control,NC2,FOL1
+NC2,2026-12-05,Q1,3,L1,morning,yes,proposed,NC1,FOL2
+NC3,2026-12-05,Q3,5,L2,morning,no,proposed,,FOL1
+NC4,2026-12-06,Q2,4,L3,afternoon,yes,proposed,NC5,FOL3
+NC5,2026-12-06,Q2,4,L5,afternoon,no,hold_control,NC4,FOL4
+NC6,2026-12-07,Q0,2,L6,morning,no,teacher_updated,NC7,FOL4
+NC7,2026-12-07,Q0,2,L1,afternoon,yes,proposed,NC6,FOL5
