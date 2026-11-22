@@ -33,7 +33,7 @@ K020,N0204,F022,3,present,no
 K020,N0205,F022,4,present,no
 K020,N0206,F023,5,present,yes
 K020,N0207,F023,6,left,no
-K021,H-repeat,F020,4,present,no
+K021,N0210,F020,4,present,no
 K021,N0211,F020,5,present,no
 K021,N0212,F021,6,present,no
 K021,N0213,F021,2,present,no
@@ -131,7 +131,7 @@ K081,N0812,F081,2,present,no
 K081,N0813,F081,3,present,no
 K081,N0814,F082,4,present,no
 K081,N0815,F082,5,present,no
-K090,H-repeat,F090,6,left,no
+K090,N0900,F090,6,left,no
 K090,N0901,F090,2,present,no
 K090,N0902,F091,3,present,no
 K090,N0903,F091,4,present,no
@@ -170,7 +170,7 @@ K110,N1105,F112,3,present,no
 K110,N1106,F113,4,present,yes
 K110,N1107,F113,5,left,no
 K110,N1108,F114,6,present,no
-K111,H-repeat,F110,3,present,no
+K111,N1110,F110,3,present,no
 K111,N1111,F110,4,present,no
 K111,N1112,F111,5,present,no
 K111,N1113,F111,6,present,no

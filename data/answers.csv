@@ -58,8 +58,8 @@ A-K020-4-late,K020,N0204,2026-11-14,transfer,gallery,5,6,yes
 A-K020-5-early,K020,N0205,2026-11-04,practice,room,2,6,no
 A-K020-6-early,K020,N0206,2026-11-04,practice,room,4,6,no
 A-K020-6-late,K020,N0206,2026-11-10,transfer,gallery,1,6,yes
-A-K021-0-early,K021,H-repeat,2026-11-04,practice,room,1,6,no
-A-K021-0-late,K021,H-repeat,2026-11-10,transfer,gallery,0,6,unknown
+A-K021-0-early,K021,N0210,2026-11-04,practice,room,1,6,no
+A-K021-0-late,K021,N0210,2026-11-10,transfer,gallery,0,6,unknown
 A-K021-1-early,K021,N0211,2026-11-04,practice,room,4,6,no
 A-K021-1-late,K021,N0211,2026-11-11,transfer,gallery,4,6,yes
 A-K021-2-early,K021,N0212,2026-11-04,practice,room,2,6,no
@@ -283,8 +283,8 @@ A-K110-6-early,K110,N1106,2026-11-13,practice,room,4,6,no
 A-K110-6-late,K110,N1106,2026-11-19,transfer,gallery,5,6,yes
 A-K110-8-early,K110,N1108,2026-11-13,practice,room,2,6,no
 A-K110-8-late,K110,N1108,2026-11-21,transfer,gallery,5,6,yes
-A-K111-0-early,K111,H-repeat,2026-11-13,practice,room,1,6,no
-A-K111-0-late,K111,H-repeat,2026-11-19,transfer,gallery,5,6,unknown
+A-K111-0-early,K111,N1110,2026-11-13,practice,room,1,6,no
+A-K111-0-late,K111,N1110,2026-11-19,transfer,gallery,5,6,unknown
 A-K111-1-early,K111,N1111,2026-11-13,practice,room,0,6,no
 A-K111-1-late,K111,N1111,2026-11-20,transfer,gallery,4,6,yes
 A-K111-2-early,K111,N1112,2026-11-13,practice,room,0,6,no
